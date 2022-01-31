@@ -118,4 +118,7 @@ img {
     text-align: center;
     margin: 0 20px;
   }
+  .primary-link:hover {
+    color: white;
+  }
 }
