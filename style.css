@@ -98,6 +98,9 @@ img {
   vertical-align: middle;
 }
 
+.primary-link:hover {
+  color: white;
+}
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
@@ -117,8 +120,5 @@ img {
     display: block;
     text-align: center;
     margin: 0 20px;
-  }
-  .primary-link:hover {
-    color: white;
   }
 }
